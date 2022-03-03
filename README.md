@@ -1,3 +1,3 @@
-Titulo proyecto
-Descripción del proyecto
-Información del proyecto
+Cerveza
+Codigo para simular las burbujas de una cerveza
+Andreu Soriano
